@@ -1,4 +1,4 @@
-**Plato's Pizza Analysis**
+# Plato's Pizza Analysis
 
 This is a comprehensive analysis done on Plato's Pizza using a Maven Analytics based dataset. Tool used for this project is Microsoft PowerBI and data is read from a Excel server using Power Query. 
 
